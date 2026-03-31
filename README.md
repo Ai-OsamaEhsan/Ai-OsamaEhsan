@@ -45,7 +45,6 @@ My research philosophy is centered on **Operationalizing Intelligence** for soft
 I'm always open to discussing new research directions or collaborations in the field of AI-powered Software Engineering.
 
 - **LinkedIn**: [Osama Ehsan](https://www.linkedin.com/in/osamaehsan/)
-- **Publications**: [Google Scholar](https://scholar.google.com/citations?user=G6lB8sQAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Osama-Ehsan)
 
 ---
 
